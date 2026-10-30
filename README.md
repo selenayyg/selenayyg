@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Selenay Güleç 👋
 
-<!--
-**selenayyg/selenayyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+🌐 **Interested in Network Engineering, Network Security & Network Automation**
 
-Here are some ideas to get you started:
+I'm a final-year Computer Engineering student with hands-on internship experience in enterprise networking, network infrastructure monitoring, and system administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Networking:** VLANs, Routing, Firewall Policies, DNS
+- **Infrastructure:** Fortinet, Huawei Switches, Proxmox, Linux
+- **Systems:** Active Directory, LDAP, Windows Server
+- **Programming:** Python, PHP, SQL, Verilog
+- **Tools:** Git, GitHub, Wireshark
+
+### 🚀 Featured Projects
+
+- **[DNS Infrastructure Monitor](https://github.com/selenayyg/dns-infrastructure-monitor)** — Python-based internal and external DNS monitoring and reporting.
+- **[RISC-16 Processor](https://github.com/selenayyg/risc16-processor)** — Verilog processor implementations and Python simulation tools.
+- **[Lunera Site Management](https://github.com/selenayyg/lunera-site-management)** — PHP and MySQL property management application.
+
+### 🎯 Currently Learning
+CCNA fundamentals, Python network automation, Linux networking, and network security.
+
+### 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/selenay-güleç-937254386/)
+- [GitHub](https://github.com/selenayyg)
